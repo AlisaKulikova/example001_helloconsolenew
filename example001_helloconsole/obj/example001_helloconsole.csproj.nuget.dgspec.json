@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FcknPW\\Desktop\\учеба\\examples\\example001_hello_console\\example001_hello_console.csproj": {}
+    "C:\\Users\\FcknPW\\Desktop\\учеба\\examples\\example001_helloconsole\\example001_helloconsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FcknPW\\Desktop\\учеба\\examples\\example001_hello_console\\example001_hello_console.csproj": {
+    "C:\\Users\\FcknPW\\Desktop\\учеба\\examples\\example001_helloconsole\\example001_helloconsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FcknPW\\Desktop\\учеба\\examples\\example001_hello_console\\example001_hello_console.csproj",
-        "projectName": "example001_hello_console",
-        "projectPath": "C:\\Users\\FcknPW\\Desktop\\учеба\\examples\\example001_hello_console\\example001_hello_console.csproj",
+        "projectUniqueName": "C:\\Users\\FcknPW\\Desktop\\учеба\\examples\\example001_helloconsole\\example001_helloconsole.csproj",
+        "projectName": "example001_helloconsole",
+        "projectPath": "C:\\Users\\FcknPW\\Desktop\\учеба\\examples\\example001_helloconsole\\example001_helloconsole.csproj",
         "packagesPath": "C:\\Users\\FcknPW\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FcknPW\\Desktop\\учеба\\examples\\example001_hello_console\\obj\\",
+        "outputPath": "C:\\Users\\FcknPW\\Desktop\\учеба\\examples\\example001_helloconsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FcknPW\\AppData\\Roaming\\NuGet\\NuGet.Config"

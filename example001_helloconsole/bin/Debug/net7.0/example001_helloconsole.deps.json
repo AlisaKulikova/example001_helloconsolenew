@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "example001_hello_console/1.0.0": {
+      "example001_helloconsole/1.0.0": {
         "runtime": {
-          "example001_hello_console.dll": {}
+          "example001_helloconsole.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "example001_hello_console/1.0.0": {
+    "example001_helloconsole/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
